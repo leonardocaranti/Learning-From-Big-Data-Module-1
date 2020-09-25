@@ -1,0 +1,34 @@
+altcoin, altcoins
+stablecoin, stablecoins
+defi, defis
+btc, bitcoin
+btc, bitcoins
+eth, ethereum
+usdt, tether
+xrp, ripple
+dot, polkadot
+bch, bitcoin cash
+bnb, binance coin
+link, chainlink
+cro, crypto.com coin
+ltc, litecoin
+bsv, bitcoin sv
+ada, cardano
+eos,
+usdc, usd coin
+trx, tron
+xtz, tezos
+xlm, stellar
+xmr, monero
+neo,
+leo, unus sec leo
+atom, cosmos
+ht, houbi token
+xem, nem
+yfi, yearn.finance
+vet, vechain
+uma,
+miota, iota
+lend, aave
+dash, dash
+wbtc, wrapped bitcoin
