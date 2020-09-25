@@ -6,11 +6,11 @@ import matplotlib.dates as dts
 
 
 # Binance API and account details
-api_label = 'minor_api'
-api_key = 'TfhDIYBK6IOo3EeuivxtzqC1AIpOSDFIE7iNcbBsTeR2PqYUiKbxEXaJNDqZWcxy'
-api_secret = 'w5jwNEcpI1WEaObWiRxf9ZVtdAVSMXOAv1vKa8ZNNfTmbnVrEyqCdjkemzyAEtV7'
-email = 'leonardo.caranti@gmail.com'
-password = 'Tre3tre3tre3$'
+api_label = ''
+api_key = ''
+api_secret = ''
+email = ''
+password = ''
 
 client = Client(api_key, api_secret)
 
