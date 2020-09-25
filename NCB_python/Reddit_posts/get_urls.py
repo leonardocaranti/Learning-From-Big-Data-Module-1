@@ -7,11 +7,11 @@ def get_date(submission):
 
 def get_urls_dates():
     
-    client_id = 'A4kDyOSOOa69tQ'
-    client_secret = 'bpVkz_6J5VqSObQH1D9PWpV3hMs'
-    user_agent = 'windows:reddit_scraper:v.1 by u/leonardocaranti'
-    username = 'leonardocaranti'
-    password = 'passuord'
+    client_id = ''
+    client_secret = ''
+    user_agent = ''
+    username = ''
+    password = ''
     reddit = praw.Reddit(client_id = client_id,
                         client_secret = client_secret,
                         user_agent = user_agent, 
