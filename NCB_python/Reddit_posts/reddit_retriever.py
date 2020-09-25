@@ -1,15 +1,15 @@
-# Client ID: A4kDyOSOOa69tQ 
-# Client secret: bpVkz_6J5VqSObQH1D9PWpV3hMs
-# App name: Reddit Sca=raper
-# Username: leonardocaranti
-# Password: passuord
+# Client ID: 
+# Client secret: 
+# App name: 
+# Username: 
+# Password: 
 import praw
 
-client_id = 'A4kDyOSOOa69tQ'
-client_secret = 'bpVkz_6J5VqSObQH1D9PWpV3hMs'
-user_agent = 'windows:reddit_scraper:v.1 by u/leonardocaranti'
-username = 'leonardocaranti'
-password = 'passuord'
+client_id = ''
+client_secret = ''
+user_agent = ''
+username = ''
+password = ''
 
 reddit = praw.Reddit(client_id = client_id,
                      client_secret = client_secret,
