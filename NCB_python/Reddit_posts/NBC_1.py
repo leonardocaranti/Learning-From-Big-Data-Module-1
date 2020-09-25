@@ -293,11 +293,11 @@ def append_daily_df():
 # url, date = "https://www.reddit.com/r/CryptoCurrency/comments/isxi64/daily_discussion_september_15_2020_gmt0/", '15_09_2020'
 printing_bool = False
 
-client_id = 'A4kDyOSOOa69tQ'
-client_secret = 'bpVkz_6J5VqSObQH1D9PWpV3hMs'
-user_agent = 'windows:reddit_scraper:v.1 by u/leonardocaranti'
-username = 'leonardocaranti'
-password = 'passuord'
+client_id = ''
+client_secret = ''
+user_agent = ''
+username = ''
+password = ''
 
 if printing_bool: 
     print(f'Connecting to reddit')
