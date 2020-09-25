@@ -284,13 +284,12 @@ def append_daily_df():
 
 
 # -------------------------- Main loop --------------------------
-# Client ID: A4kDyOSOOa69tQ 
-# Client secret: bpVkz_6J5VqSObQH1D9PWpV3hMs
-# App name: Reddit Scraper
-# Username: leonardocaranti
-# Password: passuord
+# Client ID: 
+# Client secret: 
+# App name: 
+# Username: 
+# Password: 
 
-# url, date = "https://www.reddit.com/r/CryptoCurrency/comments/isxi64/daily_discussion_september_15_2020_gmt0/", '15_09_2020'
 printing_bool = False
 
 client_id = ''
